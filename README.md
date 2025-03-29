@@ -14,7 +14,6 @@ A sophisticated RGB LED controller featuring:
 
 ![Joystick](https://http2.mlstatic.com/D_984998-MLA31828855142_082019-C.jpg)
 ![Bluetooth](https://onesmartlighting.com/wp-content/uploads/2020/07/LED-Lighting-Controllers-5.jpg)
-![Leds]([https://cdn-shop.adafruit.com/970x728/1138-00.jpg))
 
 
 
